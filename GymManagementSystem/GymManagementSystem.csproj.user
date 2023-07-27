@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEquipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemberAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="START.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrainerAttendence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAndDeleteStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateAndDeleteTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
